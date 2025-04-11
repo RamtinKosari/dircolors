@@ -8,9 +8,9 @@
 
 # Screenshots
 <div align="center">
-  <img src="https://github.com/RamtinKosari/dircolors/blob/main/Assets/1.png" width="21%"/>
-   <img src="https://github.com/RamtinKosari/dircolors/blob/main/Assets/3.png" width="25%"/>
+  <img src="https://github.com/RamtinKosari/dircolors/blob/main/Assets/1.png" width="31%"/>
+   <img src="https://github.com/RamtinKosari/dircolors/blob/main/Assets/3.png" width="37%"/>
 </div>
 <div align="center">
-   <img src="https://github.com/RamtinKosari/dircolors/blob/main/Assets/2.png" width="25%"/>
+   <img src="https://github.com/RamtinKosari/dircolors/blob/main/Assets/2.png" width="30%"/>
 </div>
